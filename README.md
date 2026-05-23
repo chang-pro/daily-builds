@@ -6,7 +6,7 @@ All project repos are private — this repo tracks work consistency.
 ## Last 7 Days
 | Date | Projects |
 |------|----------|
-| 2026-05-23 | JobBot, SocialHarness, Job-Outreach-Automation, Brain-Orchestrator, ClipPro, Brainrot-Reels, OpenClaw, MAC-2313-Calc3, Cleaning-Lead-Ads, Trading, outreach-stack, TechHelpFL, Agency, index.md, Apollo-Lead-Generation, myalexai, COT4210-Theory-of-Computation, Personal-Brand, GovCon-AI, Credit-Repair, Orleans-Cleaning, Senior-Design, Natively-Interview-Assistant, Vesper, JMP-Dialer, Local-AI-Launcher, grok-mcp |
+| 2026-05-23 | SocialHarness, JobBot, Job-Outreach-Automation, Brain-Orchestrator |
 
 ## What I Build
 - Automation: job application bots, social scheduling
