@@ -6,7 +6,7 @@ All project repos are private — this repo tracks work consistency.
 ## Last 7 Days
 | Date | Projects |
 |------|----------|
-| 2026-05-23 | JobBot, SocialHarness, private, Brain-Orchestrator, ClipPro, private, private, private, private, Trading, private, private, Agency, index.md, private, private, private, private, private, private, private, private, private, private, private, private, private |
+| 2026-05-23 | SocialHarness, JobBot, private, Brain-Orchestrator |
 
 ## What I Build
 - Automation: job application bots, social scheduling
