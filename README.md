@@ -46,7 +46,7 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-05-23 | SocialHarness, JobBot, Job-Outreach-Automation, Brain-Orchestrator, Senior-Design, ClipPro |
+| 2026-05-23 | SocialHarness, JobBot, Job-Outreach-Automation, Brain-Orchestrator, Senior-Design, ClipPro, Brainrot-Reels, outreach-stack |
 
 ---
 
