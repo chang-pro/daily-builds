@@ -46,7 +46,7 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-05-25 | Job-Outreach-Automation, Agency, Trading |
+| 2026-05-25 | Job-Outreach-Automation, Agency, Trading, ClipPro |
 | 2026-05-24 | Brainrot-Reels, SocialHarness, JobBot, ClipPro, Trading |
 | 2026-05-23 | SocialHarness, JobBot, Job-Outreach-Automation, Brain-Orchestrator, Senior-Design, ClipPro, Brainrot-Reels, outreach-stack |
 
