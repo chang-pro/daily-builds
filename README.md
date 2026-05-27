@@ -46,7 +46,7 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-05-27 | TradingTrading private |
+| 2026-05-27 | TradingTrading privateTrading |
 | 2026-05-26 | Trading, private, ClipPro, private, JobBot |
 | 2026-05-25 | private, Agency, Trading, ClipPro, private |
 | 2026-05-24 | private, SocialHarness, JobBot, ClipPro, Trading |
