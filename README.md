@@ -46,7 +46,7 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-06-01 | YouTube-ChannelYouTube-ChannelSocialHarness |
+| 2026-06-01 | YouTube-ChannelYouTube-ChannelSocialHarnessJobBot |
 | 2026-05-31 | JobBot, YouTube-Channel, ClipPro |
 | 2026-05-30 | privateprivateprivateprivateprivateYouTube-ChannelYouTube-Channel JobBot |
 | 2026-05-29 | TradingTradingprivate JobBot Brain-Orchestrator privateJobBot |
