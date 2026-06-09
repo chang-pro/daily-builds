@@ -46,7 +46,7 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-06-08 | Blink-Doorbell, ClipPro, JobBot |
+| 2026-06-08 | Blink-Doorbell, ClipPro, JobBot, Trading |
 | 2026-06-07 | ClipPro, JobBot |
 | 2026-06-06 | ClipPro |
 | 2026-06-05 | Brain-Orchestrator, ClipPro, JobBot |
