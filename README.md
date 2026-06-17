@@ -46,7 +46,7 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-06-17 | JobBotClipPro |
+| 2026-06-17 | JobBotClipProJobBot |
 | 2026-06-16 | ClipPro |
 | 2026-06-15 | ClipProClipProBrain-OrchestratorClipProClipProprivate privateprivate |
 | 2026-06-14 | ClipProClipPro |
