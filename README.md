@@ -2,43 +2,42 @@
 
 > CS senior @ UCF (Dec 2026) - AI automation engineer - private repos, public cadence
 
-I build production AI systems end to end: job bots, social media pipelines, trading research,
-multi-agent orchestration, and client automation. Shipping something most days.
+I design, deploy, and operate autonomous AI systems end to end - media pipelines, multi-agent
+orchestration, browser automation, and algorithmic trading. All project repos are private;
+this one logs the cadence. Shipping something most days.
 
 ---
 
-## What I Work On
+## Selected Systems I Build & Operate
 
-**Job Application Automation** (JobBot / Atlas / Iris / Courier)
-Modular bot that applies to jobs across Workday, Greenhouse, Lever, Handshake, and Ashby.
-1,100+ applications submitted. Iris monitors feeds and routes by ATS type; Atlas handles Workday
-auth; Courier handles GH/Lever/Ashby with a deterministic fill engine and GPT-4.1 fallback.
-Stack: Python, Chrome CDP, Claude Sonnet, GPT-4.1, SQLite
+**ClipPro - Autonomous Media Pipeline** *(active)*
+GPU-accelerated (RTX 4070) pipeline that records livestreams, detects highlight moments via ML
+transcription, renders captioned clips, and auto-distributes across platforms. 285 automated
+quality gates guard every release.
+Stack: Python, FFmpeg, faster-whisper (large-v3), Chrome CDP, Telegram
 
-**AI Social Media Pipeline** (SocialHarness / ClipPro)
-Discovers viral AI content from X and Digg, drafts captions using an engagement memory layer
-(Mem0 + ChromaDB), and auto-posts to Facebook and X. ClipPro handles video clipping, reaction
-overlays, and multi-profile distribution with a strict 36-hour cadence enforcement rule.
-Stack: Python, crawl4ai, Pillow, Patchright, FFmpeg, GPT-4o vision
+**JobBot - Multi-Platform Browser Automation** *(mature)*
+High-throughput engine that completes complex multi-step web workflows across five different
+application systems, pairing a deterministic fill engine with an LLM fallback for novel forms.
+1,000+ stateful submissions.
+Stack: Python, Chrome CDP, Claude Sonnet, SQLite
 
-**Multi-Agent Orchestration** (Brain-Orchestrator / Hermes)
-Routes tasks across local (Ollama) and cloud (Claude, GPT-4) LLMs with a dispatcher, memory
-layer, and audit trail. Handles token budgeting, model fallback, and structured output contracts.
-Stack: Python, Ollama, Claude API, GPT-4
+**Brain-Orchestrator - Multi-Agent Control Plane** *(active)*
+Manager agent that routes work between local (Gemma) and cloud (Claude) models with persistent
+context memory, scheduled triage jobs, and a library of operational skills supervising the other
+systems.
+Stack: Python, Hermes, Ollama, Claude API
 
-**Systematic Trading Research** (Trading)
-Opening range breakout strategy optimizer for MES/MNQ futures. 700k+ config search across
-parameter grids with a custom replay engine, leaderboard DB, and Telegram monitoring.
-Stack: Python, Databento, pandas, SQLite
+**Trading - Algorithmic Futures System** *(active)*
+Event-driven research and execution platform for index futures: a custom backtest replay engine
+with live/backtest parity checks, automated risk controls, and full Prometheus + Grafana
+observability.
+Stack: Python, pandas, Prometheus, Grafana
 
-**Outreach Automation** (private / private / Agency)
-Cold-email and LinkedIn outreach dispatcher with sequence management and reply routing.
-Also building AI lead-gen infrastructure for small business clients.
-Stack: Python, Gmail API, LinkedIn CDP, Meta Ads API
-
-**AI Tooling** (VisionClaw / private / private)
-Meta Ray-Ban glasses assistant with Gemini Live. Local LLM deployment manager.
-Claude Code skill and MCP server builds.
+**SocialHarness - Content Intelligence Pipeline** *(active)*
+Discovers and ranks trending content, drafts context-aware captions from a vector memory layer,
+and schedules multi-platform distribution on a fixed cadence.
+Stack: Python, crawl4ai, ChromaDB, Mem0, FFmpeg
 
 ---
 
@@ -46,16 +45,16 @@ Claude Code skill and MCP server builds.
 
 | Date | Projects |
 |------|----------|
-| 2026-06-23 | YouTube-ChannelTradingClipPro |
-| 2026-06-22 | TradingTradingTradingTradingYouTube-ChannelYouTube-ChannelYouTube-ChannelTradingTradingTrading |
-| 2026-06-21 | private, ClipPro, YouTube-Channel, Trading, Agency, private, private, private |
-| 2026-06-19 | private, ClipPro |
-| 2026-06-17 | JobBotClipProJobBotClipProClipProClipProClipProClipProprivateprivate private privateprivateprivateClipProClipProClipProTrading YouTube-ChannelprivateYouTube-Channel |
+| 2026-06-23 | YouTube-Channel, Trading, ClipPro |
+| 2026-06-22 | Trading, YouTube-Channel |
+| 2026-06-21 | ClipPro, YouTube-Channel, Trading, Agency |
+| 2026-06-19 | ClipPro |
+| 2026-06-17 | JobBot, ClipPro, Trading, YouTube-Channel |
 | 2026-06-16 | ClipPro |
-| 2026-06-15 | ClipProClipProBrain-OrchestratorClipProClipProprivate privateprivate |
+| 2026-06-15 | ClipPro, Brain-Orchestrator |
 
 ---
 
-`Python` `JavaScript` `Chrome CDP` `Claude API` `GPT-4` `Ollama` `SQLite` `Meta API` `Telegram Bot API` `Fish Audio`
+`Python` `JavaScript` `Chrome CDP` `Claude API` `Ollama` `SQLite` `Prometheus` `Grafana` `FFmpeg` `Telegram Bot API`
 
 *All project repos are private. A commit lands here each time I update my project vault.*
