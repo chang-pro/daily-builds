@@ -45,7 +45,7 @@ Stack: Python, crawl4ai, ChromaDB, Mem0, FFmpeg
 
 | Date | Projects |
 |------|----------|
-| 2026-07-01 | ClipPro |
+| 2026-07-01 |  |
 | 2026-06-30 |  |
 | 2026-06-29 |  |
 | 2026-06-28 | ClipPro |
