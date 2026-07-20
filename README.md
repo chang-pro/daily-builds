@@ -45,7 +45,7 @@ Stack: Python, crawl4ai, ChromaDB, Mem0, FFmpeg
 
 | Date | Projects |
 |------|----------|
-| 2026-07-20 | JobBot, ClipPro |
+| 2026-07-20 | JobBot, ClipPro, Trading |
 | 2026-07-19 | JobBot |
 | 2026-07-18 | JobBot, ClipPro |
 | 2026-07-17 | JobBot, Trading, Brain-Orchestrator, ClipPro |
