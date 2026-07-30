@@ -45,13 +45,13 @@ Stack: Python, crawl4ai, ChromaDB, Mem0, FFmpeg
 
 | Date | Projects |
 |------|----------|
+| 2026-07-30 | JobBot, YouTube-Channel |
 | 2026-07-29 | JobBot, ClipPro, YouTube-Channel, Trading |
 | 2026-07-28 | JobBot, YouTube-Channel, Agency, ClipPro |
 | 2026-07-27 | ClipPro, JobBot, YouTube-Channel, Trading, Agency |
 | 2026-07-26 | JobBot, ClipPro |
 | 2026-07-25 | JobBot, ClipPro, Trading, YouTube-Channel |
 | 2026-07-24 | ClipPro, JobBot, Trading |
-| 2026-07-23 | ClipPro, JobBot, Trading, YouTube-Channel, Agency |
 
 ---
 
