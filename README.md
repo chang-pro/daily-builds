@@ -45,7 +45,7 @@ Stack: Python, crawl4ai, ChromaDB, Mem0, FFmpeg
 
 | Date | Projects |
 |------|----------|
-| 2026-08-23 | JobBot |
+| 2026-08-23 | JobBot, YouTube-Channel |
 | 2026-08-20 | JobBot |
 | 2026-08-19 | JobBot |
 | 2026-08-18 | JobBot, YouTube-Channel |
