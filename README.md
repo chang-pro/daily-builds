@@ -1,4 +1,4 @@
-# Building Every Day
+﻿# Building Every Day
 
 > CS senior @ UCF (Dec 2026) - AI automation engineer - private repos, public cadence
 
@@ -45,7 +45,7 @@ Stack: Python, crawl4ai, ChromaDB, Mem0, FFmpeg
 
 | Date | Projects |
 |------|----------|
-| 2026-08-26 | ClipPro, JobBot |
+| 2026-08-26 | ClipPro, JobBot, Trading |
 | 2026-08-25 | JobBot, Trading, YouTube-Channel, ClipPro |
 | 2026-08-24 | JobBot, Trading, ClipPro, YouTube-Channel |
 | 2026-08-23 | JobBot, YouTube-Channel |
