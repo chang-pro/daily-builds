@@ -1,4 +1,4 @@
-# Building Every Day
+﻿# Building Every Day
 
 > CS senior @ UCF (Dec 2026) - AI automation engineer - private repos, public cadence
 
